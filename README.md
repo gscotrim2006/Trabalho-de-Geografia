@@ -35,8 +35,8 @@ Sem frameworks, bibliotecas ou JavaScript: é um site estático.
 
 ```
 Trabalho-de-Geografia/
-├── pt-br/                  # Versão em português
-│   ├── index.html          # Página inicial
+├── index.html              # Página inicial (em português)
+├── pt-br/                  # Versão em português         
 │   ├── paginas/            # Irlanda, hotéis, transportes, preços, referências, grupo e erro
 │   ├── dosOutrosGrupos/    # Páginas e slides dos outros grupos
 │   ├── css/                # Estilos de cada página
@@ -58,11 +58,15 @@ Trabalho-de-Geografia/
 ```bash
    cd Trabalho-de-Geografia
 ```
-3. Abra o arquivo `pt-br/index.html` (português) ou `en/index.html` (inglês) no navegador.
+3. Abra o arquivo `index.html` (português) ou `en/index.html` (inglês) no navegador.
 
 Não precisa instalar nada.
 
 > ⚠️ O repositório tem cerca de 270 MB por causa das imagens e dos slides, então o clone pode demorar um pouco.
+
+Ou se não quiser clonar nada (clique com o botão do meio para abrir numa nova aba):
+
+[Site hospedado no github-pages](https://gscotrim2006.github.io/Trabalho-de-Geografia/)
 
 ## 👥 Autoria
 
