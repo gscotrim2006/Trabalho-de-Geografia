@@ -52,7 +52,7 @@ Trabalho-de-Geografia/
 
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/GuisoBiso67/Trabalho-de-Geografia.git
+   git clone https://github.com/gscotrim2006/Trabalho-de-Geografia.git
 ```
 2. Entre na pasta do projeto:
 ```bash
@@ -69,4 +69,4 @@ Não precisa instalar nada.
 Trabalho de Geografia feito em grupo. O desenvolvimento do site foi feito inteiramente por:
 
 **Guilherme Silva Cotrim**
-[GitHub: @GuisoBiso67](https://github.com/GuisoBiso67)
+[GitHub: @gscotrim2006](https://github.com/gscotrim2006)
